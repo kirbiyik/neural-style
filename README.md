@@ -7,6 +7,7 @@
 </p>
 
 Please visit below to see deployed web app.
+
 http://omerkirbiyik.com/neural-style
 
 \
