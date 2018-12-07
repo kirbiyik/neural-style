@@ -6,6 +6,9 @@
  <img src="./static/img/demo.png" alt="Drawing", width=60%>
 </p>
 
+This project is the implementation of the paper [_Image Style Transfer Using Convolutional Neural Networks_](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+
+
 Please visit below to see deployed web app.
 
 http://omerkirbiyik.com/neural-style
